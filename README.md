@@ -27,6 +27,8 @@ Self-taught software engineer with a passion for building things that make a dif
 - [SqueakyBottleTracker](https://bilal-nadeem-ahmed.github.io/SqueakyBottleTracker/) ([repo](https://github.com/Bilal-Nadeem-Ahmed/SqueakyBottleTracker))  
   _A personal utility project, live on GitHub Pages._
 
+- Im sure you'll find more if you poke around a bit 
+
 ---
 
 ## 💼 Experience
