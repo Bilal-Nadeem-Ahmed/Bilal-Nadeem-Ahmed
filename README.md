@@ -48,7 +48,7 @@ _Oct 2021 – Feb 2023_
 - Increased website speed by 35% via API optimization
 - Developed RESTful APIs and improved testing coverage
 
-**Finance Assistant – Himmah**  
+**Finance Manager – Himmah**  
 _Oct 2016 – Oct 2021_  
 - Implemented new processes to increase efficiency
 - Raised over £25k through social media marketing
