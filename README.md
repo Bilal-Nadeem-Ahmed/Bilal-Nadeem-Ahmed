@@ -27,8 +27,8 @@ Self-taught software engineer with a passion for building things that make a dif
 - [SqueakyBottleTracker](https://bilal-nadeem-ahmed.github.io/SqueakyBottleTracker/) ([repo](https://github.com/Bilal-Nadeem-Ahmed/SqueakyBottleTracker))  
   _A personal utility project, live on GitHub Pages._
 
-  - [SqueakyBottleTracker](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample) ([repo](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample))  
-  _A basic C# API example._
+- [C# Api Example](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample) ([repo](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample))  
+ _A basic C# API example._
 
 - Im sure you'll find more if you poke around a bit 
 
