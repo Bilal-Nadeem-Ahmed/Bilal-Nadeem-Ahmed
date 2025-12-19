@@ -9,7 +9,7 @@ Self-taught software engineer with a passion for building things that make a dif
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, C#, SQL, MongoDB
-- **Frameworks:** .NET, Vue.js, React, Node.js
+- **Frameworks:** .NET, Vue.js, React.js, Node.js
 - **Cloud & DevOps:** Azure, CI/CD, DevOps pipelines
 - **Testing:** Jest, NUnit
 - **Other:** Documentation, Balsamiq, Responsive UI/UX
@@ -18,17 +18,26 @@ Self-taught software engineer with a passion for building things that make a dif
 
 ## 🚀 Projects
 
-- [Eco-Rod Ltd.](https://www.eco-rodltd.com/)  
-  _Live commercial site developed with modern web technologies._
+- [Invoice Gen](https://evergreengroup.uk/](https://invoice-gen-lake.vercel.app/)) ([repo](https://github.com/Bilal-Nadeem-Ahmed/invoice-gen)) 
+  _Built to quickly generate pdf invoices for people or businesses with Vue3 Vuetify and JSPDF_
 
-- [Evergreen Group](https://evergreengroup.uk/)  
-  _Live business site, responsive and SEO-friendly._
+- [Star Wars App](https://my-star-wars-app-two.vercel.app/)) ([repo](https://github.com/Bilal-Nadeem-Ahmed/My-StarWars-App)) 
+  _Built with Vue3 Vuetify and uses a public api. Was given as a tech assignment. It's currently live and hosted but can work with the c# api below. There are more details on how to do that in the readme file._
 
-- [SqueakyBottleTracker](https://bilal-nadeem-ahmed.github.io/SqueakyBottleTracker/) ([repo](https://github.com/Bilal-Nadeem-Ahmed/SqueakyBottleTracker))  
-  _A personal utility project, live on GitHub Pages._
+- [Star Wars Api] ([repo](https://github.com/Bilal-Nadeem-Ahmed/StarWarsApi)) 
+  _Built with C# and uses apublic api to get the data. Implements chaching in a few different levels and a few other interesting things. Was a part of a tech assignment. There are more details on how to get this working with the fe in the readme file._
 
 - [C# Api Example](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample) ([repo](https://github.com/Bilal-Nadeem-Ahmed/BasicCSharpApiExample))  
- _A basic C# API example._
+ _A basic C# API example. Uses SQLLite Entity Framework and so on._
+
+- [SqueakyBottleTracker](https://bilal-nadeem-ahmed.github.io/SqueakyBottleTracker/) ([repo](https://github.com/Bilal-Nadeem-Ahmed/SqueakyBottleTracker))  
+  _A personal utility project, live on GitHub Pages. Built with JS, uses local storage, needs work but has served it's purpose._
+
+- [Eco-Rod Ltd.](https://www.eco-rodltd.com/)  
+  _Live commercial site developed with basic HTML and CSS. It's responsive and SEO optimised._
+
+- [Expenses](https://www.eco-rodltd.com/](https://github.com/Bilal-Nadeem-Ahmed/Expenses))  
+_A basic site that tracks expenses on a monthly basis, build as a favour for some one, its a work in progress_
 
 - Im sure you'll find more if you poke around a bit 
 
